@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Good morning, I guess...");
+Console.WriteLine("Good morning, I guess..");
 //hello
